@@ -1,0 +1,36 @@
+git commands list:
+===================
+
+git init :to intiaize local repo
+
+git status
+
+git add
+
+git config --global user.name "mass mutual"
+git config --global user.email "massmutual@gmail.com"
+
+git commit -m "basic commands added to notes"
+git restore "filename"
+git restore --staged "filename"
+
+git log #to see logs
+git remote add origin https://github.com/sandeepsomavarapu/git_practice_MM.git
+git branch -M main
+git push -u origin main
+
+git checkout branchname 
+
+git clone https://github.com/sandeepsomavarapu/Carrertuner_Nov_Batch.git
+
+git push
+
+git pull
+
+git rm filename
+
+
+
+
+
+
