@@ -29,6 +29,8 @@ git pull
 
 git rm filename
 
+git merge
+
 
 
 
